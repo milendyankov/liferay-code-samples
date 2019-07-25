@@ -31,7 +31,7 @@ As the example uses two filters, it also demonstrates how to configure the order
 ## Other frameworks and libraries used in this sample
 
 - `MVC Portlet` - for the portlet _(it would work the same with any other portlet framework)_
-- `OSGi Declrative Services` - to register portlet filters as OSGi components
+- `OSGi Declarative Services` - to register portlet filters as OSGi components
 - `JSP` - to build the view layer
 - [Clay](https://clayui.com/) components - to display the list with icons
 
@@ -57,4 +57,6 @@ There is no configuration needed. Use the applications menu to add the sample to
 ## Related documentation
 
 - [Liferay MVC Portlet](https://portal.liferay.dev/docs/7-1/tutorials/-/knowledge_base/t/liferay-mvc-portlet)
+<!-- TODO: Include when we have the definitive docs available 
 - [Using Filters to intercept, adapt or modify data around Portlet execution tutorial](/docs/7-2/tutorials/-/knowledge_base/t/render_filter_portlet)
+-->
